@@ -1,14 +1,18 @@
-# My Essay
+.ve-header "Lady Susan" wc:Chawton_House%2C_estate_cottages_-a.jpg
+
+# Jane Austen's "Lady Susan"
 
 This Juncture essay illustrates the use of a few Markdown formatting tags and the incorporation of an image and a map into a Juncture essay.
 
-## Aulacophora indica
+## Austen's bio
 
-.ve-media wc:The_Bug_Peek.jpg right
+.ve-media wc:Jane_Austen%2C_from_A_Memoir_of_Jane_Austen_%281870%29.jpg right
 
 The image depicts a leaf beetle (Aulacophora indica) (Family: Chrysomelidae; subfamily: Galerucinae) looking out from a leaf hole of Alnus nepalensis tree. Adult leaf beetles make holes in host plant leaves while feeding. They camouflage themselves with these holes.
 
-This image is hosted on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Bug_Peek.jpg) and was runner-up for Wikimedia Commons Picture of the Year for 2021.
+## Epistolary Fiction
+
+"Lady Susan" is an e
 
 Image controls are located in the top-left corner of the image and can be seen when hovering over the image.  These controls support image zoom, rotation, full-screen viewing, and repositioning to the start position.  Panning can be performed with keyboard arrow keys or by mouse click-and-drag.
 
